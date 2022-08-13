@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Breakout.SchDoc
+Record=SheetSymbol|SourceDocument=Breakout.SchDoc|Designator=A|SchDesignator=A|FileName=Analog.SchDoc|SymbolType=Normal|RawFileName=Analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Breakout.SchDoc|Designator=B|SchDesignator=B|FileName=Analog.SchDoc|SymbolType=Normal|RawFileName=Analog.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

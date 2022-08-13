@@ -6,14 +6,32 @@ All projects are created with Altium Designer 17. The output files are capable f
 
 ## List of Projects
 
-### Operational Amplifiers
+### Electro-mechanical parts
 
 | Name | Description |
 | :-- | :-- |
-| [OPAMP](OPAMP) | MCP6002/LM358-compatible operational amplifier |
+| [BTN_TACT](BTN_TACT) | Circuit board for 6x6mm tactile button (THT) |
+
+### Optocouplers
+
+| Name | Description |
+| :-- | :-- |
+| [H11L1_TXRX](H11L1_TXRX) | UART interface isolation |
+
+### Operational amplifiers
+
+| Name | Description |
+| :-- | :-- |
+| [OPAMP](OPAMP) | Prototype board for MCP6002/LM358-compatible operational amplifier |
 
 ### Transistors
 
 | Name | Description |
 | :-- | :-- |
-| [SOT-23 MOSFET](SOT-23_MOSFET) | MOSFET in SOT-23 |
+| [SOT-23_MOSFET](SOT-23_MOSFET) | MOSFET in SOT-23 |
+
+### Voltage regulators
+
+| Name | Description |
+| :-- | :-- |
+| [LM1117_VREG](LM1117_VREG) | Fixed voltage regulator LM1117-compatible |

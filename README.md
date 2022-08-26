@@ -6,6 +6,12 @@ All projects are created with Altium Designer 17. The output files are capable f
 
 ## List of Projects
 
+### Adapters
+
+| Name | Description |
+| :-- | :-- |
+| [ARM_SWD](ARM_SWD) | Adapter PCB for ST-Link/J-Link (ARM Standard JTAG/SWD 20-pin Header) |
+
 ### Electro-mechanical parts
 
 | Name | Description |
